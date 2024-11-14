@@ -8,6 +8,7 @@ konlpy
 wordcloud
 loguru
 langchain
+langchain-community
 openai
 faiss-cpu
 tiktoken
